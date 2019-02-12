@@ -15,5 +15,3 @@
 		* [Demonstration](TOPICS/VALUE/VALUE_DEMONSTRATION.md)
 		* [Lesson Plan](TOPICS/VALUE/VALUE_lesson_plan.md)
 		* [Worksheet](TOPICS/VALUE/VALUE_WORKSHEET.md)
-* [Goals](Goals)
-
