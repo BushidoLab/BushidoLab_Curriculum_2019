@@ -17,3 +17,8 @@
 		* [Demonstration](TOPICS/VALUE/VALUE_DEMONSTRATION.md)
 		* [Lesson Plan](TOPICS/VALUE/VALUE_lesson_plan.md)
 		* [Worksheet](TOPICS/VALUE/VALUE_WORKSHEET.md)
+* [GOALS](GOALS)
+	* [Distributed VS Centralized Ledger](GOALS/distributed_centralized_ledger.md)
+	* [Goals](GOALS/goals.md)
+	* [Main Goals](GOALS/main_goals.md)
+	* [Schedule](GOALS/SCHEDULE.md)
