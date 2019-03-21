@@ -4,18 +4,17 @@
 
 * [README](README.md)
 * [Curriculum](Main/curriculum.md)
-* [Goals](GOALS/goals.md)
-	* MINING	
-		* [Demonstration](MINING/MINING_DEMONSTRATION.md)
-		* [Lesson Plan](MINING/MINING_lesson_plan.md)
-		* [Worksheet](MINING/MINING_WORKSHEET.md)
-	* TRADING
-		* [Demonstration](TRADING/TRADING_DEMONSTRATION.md)
-		* [Lesson Plan](TRADING/TRADING_lesson_plan.md)
-		* [Worksheet](TRADING/TRADING_WORKSHEET.md)
-	* VALUE
-		* [Demonstration](VALUE/VALUE_DEMONSTRATION.md)
-		* [Lesson Plan](VALUE/VALUE_lesson_plan.md)
-		* [Worksheet](VALUE/VALUE_WORKSHEET.md)
+* MINING	
+	* [Demonstration](MINING/MINING_DEMONSTRATION.md)
+	* [Lesson Plan](MINING/MINING_lesson_plan.md)
+	* [Worksheet](MINING/MINING_WORKSHEET.md)
+* TRADING
+	* [Demonstration](TRADING/TRADING_DEMONSTRATION.md)
+	* [Lesson Plan](TRADING/TRADING_lesson_plan.md)
+	* [Worksheet](TRADING/TRADING_WORKSHEET.md)
+* VALUE
+	* [Demonstration](VALUE/VALUE_DEMONSTRATION.md)
+	* [Lesson Plan](VALUE/VALUE_lesson_plan.md)
+	* [Worksheet](VALUE/VALUE_WORKSHEET.md)
 
 
