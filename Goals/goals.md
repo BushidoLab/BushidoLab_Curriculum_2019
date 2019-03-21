@@ -42,6 +42,3 @@ Introduce MINING and minting new COINS
 - Where does the new money come from?
 - How is this money produced?
 - Who gets this money and why?
-
-
-### Day 5
