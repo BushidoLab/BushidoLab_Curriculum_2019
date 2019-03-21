@@ -31,7 +31,7 @@ End the lesson with a demonstration by the teacher, referring to the [VALUE_DEMO
 
 ### Opening to lesson
 
-Begin with theory. [Attached](TODO) is an in-detail coverage of:
+Begin with theory. [Attached](VALUE_WORKSHEET.md) is an in-detail coverage of:
 - Value
 - Scarcity
 - Supply/Demand
