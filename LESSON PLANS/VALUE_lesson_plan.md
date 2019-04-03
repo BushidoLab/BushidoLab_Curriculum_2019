@@ -18,12 +18,13 @@ The outcome of this lesson is to teach the students the meaning of VALUE, as wel
 Standard stationary, pencil and paper.
 
 The following worksheets:
-- [VALUE_WORKSHEET](VALUE_WORKSHEET.md)
-- [VALUE_DEMONSTRATION](VALUE_DEMONSTRATION.md)
+- [INFO](/VALUE/VALUE_INFO.md) (for the teacher)
+- [WORKSHEET](/VALUE/VALUE_WORKSHEET.md)
+- [DEMONSTRATION](/VALUE/VALUE_DEMONSTRATION.md)
 
 ## Procedure
 
-Begin the lesson with some theoretical coverage of the above mentioned topics.
+Begin the lesson with some theoretical coverage of the above mentioned topics with the [VALUE_INFO](VALUE_INFO.md) knowledge.
 
 Afterwards, using the [VALUE_WORKSHEET](VALUE_WORKSHEET.md) begin a question dialogue with the students. 
 

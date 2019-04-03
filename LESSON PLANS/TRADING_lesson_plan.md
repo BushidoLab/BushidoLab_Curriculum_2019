@@ -20,8 +20,9 @@ Students must understand how trades are done peer to peer. Students need to trad
 ## Materials Needed
 
 The following worksheets:
-- [WORKSHEET](TRADING_WORKSHEET.md)
-- [DEMONSTRATION](TRADING_DEMONSTRATION.md)
+- [INFO](/TRADING/TRADING_INFO.md)
+- [WORKSHEET](/TRADING/TRADING_WORKSHEET.md)
+- [DEMONSTRATION](/TRADING/TRADING_DEMONSTRATION.md)
 
 During the exercise, each student needs either an 'item of value' or 'money to purchase an item'.
 
