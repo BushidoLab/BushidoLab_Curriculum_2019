@@ -1,8 +1,10 @@
 # Introduction
 
 Lesson Plans
-- [Value](LESSON_PLANS/VALUE_lesson_plan.md)
-- [Trading](LESSON_PLANS/TRADING_lesson_plan.md)
-- [Mining](LESSON_PLANS/MINING_lesson_plan.md)
 
-Each of the lesson plans contain links to their respective Teacher Info, Worksheets and Demonstration break downs. 
+* [Value](lesson_plans/value_lesson_plan.md)
+* [Trading](lesson_plans/trading_lesson_plan.md)
+* [Mining](lesson_plans/mining_lesson_plan.md)
+
+Each of the lesson plans contain links to their respective Teacher Info, Worksheets and Demonstration break downs.
+

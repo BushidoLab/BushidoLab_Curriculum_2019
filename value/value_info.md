@@ -16,7 +16,7 @@ What gives an item value?
 * What can you do with this value?
 * What is something that has NO value?
 
-### SCARCITY:
+## SCARCITY:
 
 What is scarcity?
 
@@ -38,7 +38,7 @@ What does scarcity do to the item?
 * How does a limited supply of new items make it scarce? \(they are hard to get, making them scarce\)
 * What would happen if someone found 1000000000 diamonds in their back yard? Would it make diamonds more expensive, or cheap? \(diamonds would be cheap\)
 
-### SUPPLY/DEMAND:
+## SUPPLY/DEMAND:
 
 What is a DEMAND?
 
@@ -59,3 +59,4 @@ What is a SUPPLY?
 * Can you notice a difference between items that have low supply vs items that have high supply? \(high supply is cheap usually, low supply is expensive usually\)
 * What happens if there is a LARGE SUPPLY of an item that has a LOW DEMAND? \(too much is made, and it becomes cheap/useless\)
 * What happens if there is a LOW SUPPLY of an item that has a HIGH DEMAND? \(everyone wants it\)
+
