@@ -1,4 +1,4 @@
-# MINING Lesson Plan Template
+# MINING Lesson Plan
 
 Grade Level: 4th - 5th grade.
 

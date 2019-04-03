@@ -2,9 +2,9 @@
 
 * [Introduction](README.md)
 * [LESSON PLANS](lesson_plans/README.md)
-  * [VALUE Lesson Plan Template](lesson_plans/value_lesson_plan.md)
-  * [MINING Lesson Plan Template](lesson_plans/mining_lesson_plan.md)
-  * [TRADING Lesson Plan Template](lesson_plans/trading_lesson_plan.md)
+  * [VALUE Lesson Plan](lesson_plans/value_lesson_plan.md)
+  * [MINING Lesson Plan](lesson_plans/mining_lesson_plan.md)
+  * [TRADING Lesson Plan](lesson_plans/trading_lesson_plan.md)
 * [VALUE](value/README.md)
   * [Value Demonstration](value/value_demonstration.md)
   * [Value Worksheet](value/value_worksheet.md)

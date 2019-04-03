@@ -1,4 +1,4 @@
-# VALUE Lesson Plan Template
+# VALUE Lesson Plan
 
 Grade Level: 4th - 5th grade.
 

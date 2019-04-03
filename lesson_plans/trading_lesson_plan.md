@@ -1,4 +1,4 @@
-# TRADING Lesson Plan Template
+# TRADING Lesson Plan
 
 Grade Level: 4th - 5th grade.
 
