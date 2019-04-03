@@ -9,8 +9,8 @@ All the kids \(hopefully\) are going to chose the expensive item first. Allow th
 Answers you want to hear are:
 
 * It's more VALUABLE.
-* I can get one of the cheap items very easily \(high supply\).
-* I dont want the cheap item \(low demand\).
-* I can't get one of the expensive items easily \(low supply\).
+* I can get one of the cheap items very easily \(high supply, low price\).
+* I don't want the cheap item \(low demand\).
+* I can't get one of the expensive items easily \(low supply, high price and demand\).
 * The cheaper item is being over priced by the teacher \(intrinsic / derived value, with some inflation\).
 
