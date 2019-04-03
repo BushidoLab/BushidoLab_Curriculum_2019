@@ -1,3 +1,5 @@
+# Trading Info
+
 ### TRADING & BARTERING:
 
 What is trading?

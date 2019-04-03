@@ -1,4 +1,4 @@
-# Teaching Trading:
+# Trading Demonstration
 
 Trading is the simple transfer of one item of value, for another.
 

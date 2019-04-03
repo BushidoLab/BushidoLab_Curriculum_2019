@@ -1,4 +1,4 @@
-# TRADING WORKSHEET
+# Trading Worksheet
 
 Now that you have learnt and understand the following topics:
 	- exchange

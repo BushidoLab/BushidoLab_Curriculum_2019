@@ -1,4 +1,4 @@
-# MINING WORKSHEET
+# Mining Worksheet
 
 In this exercise, we try to replicate bitcoins proof of work system in the simplest way possible.
 

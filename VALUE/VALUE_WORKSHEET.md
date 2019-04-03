@@ -1,4 +1,4 @@
-# VALUE WORKSHEET
+# Value Worksheet
 
 Today we learnt about:
 - Value

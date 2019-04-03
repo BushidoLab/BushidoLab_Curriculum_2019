@@ -1,4 +1,4 @@
-# Teaching Mining:
+# Mining Demonstration
 
 When ever blocks are mined, the miner receives a reward for their hard work.
 

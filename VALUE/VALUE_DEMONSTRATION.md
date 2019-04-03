@@ -1,4 +1,4 @@
-### VALUE DEMONSTRATION:
+### Value Demonstration
 
 Show the kids something cheap (cheap hat, paper, note books). Now show the kids something valuable (nice hat, phone, computer).
 

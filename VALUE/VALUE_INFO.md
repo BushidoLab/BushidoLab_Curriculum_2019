@@ -1,6 +1,4 @@
-# Curriculum
-
-## 1.VALUE
+# Value Info
 
 What is value?
 
