@@ -74,11 +74,16 @@ What are the important parts of this record?
 
 **Questions for Kids:**
 
-* Why is it important that EVERYONE can see the ledger?
+* Why is it important that both Billy and Sandy can see the ledger?
+  * So that they can prove a trade was made, and refer back to the items/time/signatures if needed.
 * Why is it important to have a record of who traded what?
+  * It is important as a means of verification and proof of purchase/trade.
 * Why is it important that the date's are recorded?
+  * Can't cheat the system to trade an item twice, or trick the system.
 * Why is it important that both traders sign the ledger at the end?
+  * To show that both parties agreed to the trade and finished the trade successfully.
 * If Billy didn't sign the transaction, what would happen to Sandy's XBOX? What would happen to Billy's Bike?
+  * Billy's transaction would be 'invalid' or 'incomplete'. He would not rightfully own the XBOX, because Sandy clearly didn't agree....
 
 ### OWNERSHIP OF VALUE & RECORD KEEPING
 
@@ -99,10 +104,19 @@ In this way, we no longer have to TRUST people when they say they bought it from
 **Questions for Kids:**
 
 * Why is it important to know who OWNS what?
+  * So you cant steal and use other peoples possessions. 
 * Can you explain the difference between VERIFY and TRUST?
+  * Trust means to believe what you are told.
+  * Verify means you check it for yourself.
 * Why do you want to VERIFY something rather than TRUST someone?
+  * Because there are bad people who would lie to benefit the system. Verifying ensures no one can do this.
 * What important things would need a LEDGER to keep track of?
+  * Student Performances \(stars for kids\)
+  * Diary / Calendar \(history of events\)
+  * Personal Spending
 * Can you think of a problem with there being only 1 ledger?
+  * If it is lost, all the information is gone.
+  * If its manipulated, there is no way to verify.
 
 ### SHORTCOMINGS
 
@@ -117,9 +131,9 @@ What are the negative sides of having a physical ledger?
 
 ## 2.DIGITAL LEDGER
 
-Now that we understand what a PHYSICAL LEDGER is, lets introduce a DIGITAL LEDGER.
+Now that we understand what a PHYSICAL LEDGER is, let's introduce a DIGITAL LEDGER.
 
-A DIGITAL LEDGER is the same thing as a physical ledger, only, its DIGITAL. Its on computers and on the internet.
+A DIGITAL LEDGER is the same thing as a physical ledger, only, it's DIGITAL. It's on computers and on the internet.
 
 Imagine Billy and Sandy want to trade again. Remember the example how they were able to go face to face and trade? What if Billy moved and was on the other side of the world!
 
@@ -143,21 +157,11 @@ Sandy Lost RARE Baseball Cards, gained $5.00.
 ----------------------------------------------------------------
 
 ---------------------BEGIN-BILLY'S-SIGNATURE--------------------
-mQENBFxbRwQBCACIB375DtkNxRYmEw2La1gcVAbX3ZpUzAUS12d9IW4jB7nIRf+H
-f3HEXaBie7qBjrEFiI/Jnt889blPLbyno3KOn2lFUxlcrbVJn986cyhmuuO97r61
-qTW14Ml7rMzDdxIb4K9VVEkHlpHitMU8BCfgWXDplAPRS1/Ogg4aOalhkrG0XslV
-SGiUozVxfHl8nNOv0sYC0gHa0AKwheF+3tBULBBMvf9sZsVM6dCY/J7OTORLc8NS
-bQ/qhUs5tN1oiMfc+ZH/jd2t68vj/zUcq7iiByRk/zvE
-=6LGD
+                       BiLlYBoB121231AbCD
 ----------------Digitally_Signed.........BILLY-✓----------------
 
 ---------------------BEGIN-SALLY'S-SIGNATURE--------------------
-mQENBFxbR10BCAD0/ihILCcQluwPAnQ0+wjAir9yuTMn3sh/mlHit1GZRBCkNFUj
-Qtk6hUzqlUdBdrwWtMfnX8diKZDT7Y+SyfsxRZFmxKBEvYr2YCBLPVHVp06jLylP
-47uvPfUZyGqogeTZp/FxTvL/FHuU/9wTdB5s463s/GcEbQsc1PtmgH4Uqffe25jM
-fJMUsvgHQ7q8aVRYh2ca4cHO56Taa+byV9A/r4GxoXTHKMHiEzRDAg4DJiekO6eh
-4y45w2y6wD8tt2GYt6oDdWasDCX2kxSEkSWzngGI0VrzvEp8B9U=
-=ovtA
+                         sAlLySk8tr317
 ----------------Digitally_Signed.........SANDY-✓----------------
 -------------------D-I-G-I-T-A-L--L-E-D-G-E-R-------------------
 ```
@@ -165,7 +169,9 @@ fJMUsvgHQ7q8aVRYh2ca4cHO56Taa+byV9A/r4GxoXTHKMHiEzRDAg4DJiekO6eh
 **Questions for Kids:**
 
 * How could having only 1 centralized ledger be a problem?
+  * It could be lost or tampered with.
 * Can you think of a way we could have more than one ledger but everyone keep the same information?
+  * Multiple copies of the ledger shared amongst many people.
 
 ### DISTRIBUTED DIGITAL LEDGER
 
